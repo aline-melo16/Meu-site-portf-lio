@@ -323,7 +323,6 @@ a:hover{
     position: relative;
 }
 .card-wrapper::before{
-    content: '';
     position: absolute;
     height: 100px;
     width: 100px;
